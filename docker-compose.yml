@@ -6,4 +6,4 @@ services:
     network_mode: "host"
     restart: unless-stopped
     volumes:
-      - ./.opencanary.conf:/root/.opencanary.conf
+      - ./opencanary.conf:/root/.opencanary.conf
