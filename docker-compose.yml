@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  opencanary:
+    image: thinkst/opencanary:latest
+    network_mode: "host"
+    restart: unless-stopped
+    volumes:
+      - ./.opencanary.conf:/root/.opencanary.conf
