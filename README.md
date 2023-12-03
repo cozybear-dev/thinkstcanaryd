@@ -2,7 +2,7 @@
 
 Simple setup for private use of honeypots.
 
-Used with Pipedream, that escalates to Pushover to mobile phone. Zapier/IFTT are no longer options for me, as you have to pay obscene amounts of money.
+Used with Pipedream (max of 25 notifications/credits per month!), that escalates to Pushover to mobile phone. Zapier/IFTT are no longer options for me, as you have to pay obscene amounts of money. If you want self-hosted, I'd go with Windmill.
 
 Evaluate the config and change accordingly!
 
