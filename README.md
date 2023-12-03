@@ -2,7 +2,7 @@
 
 Simple setup for private use of honeypots.
 
-Used with Zapier webhook, that escalates to Pushover to mobile phone.
+Used with Pipedream, that escalates to Pushover to mobile phone. Zapier/IFTT are no longer options for me, as you have to pay obscene amounts of money.
 
 Evaluate the config and change accordingly!
 
